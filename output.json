@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "largs": [
+                {
+                    "arg": "a",
+                    "type": "int*"
+                },
+                {
+                    "arg": "*b",
+                    "type": "T"
+                }
+            ],
+            "name": "myclass::myfunc",
+            "object": "function"
+        },
+        {
+            "largs": [
+                {
+                    "arg": "*a",
+                    "type": "int"
+                },
+                {
+                    "arg": "*b",
+                    "type": "T"
+                },
+                {
+                    "arg": "*c",
+                    "type": "float"
+                },
+                {
+                    "arg": "*d",
+                    "type": "double"
+                }
+            ],
+            "name": "myfunc",
+            "object": "function"
+        }
+    ]
+}
